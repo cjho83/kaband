@@ -7,4 +7,3 @@
 3. Open up main_nitf.py and try to run it.
 
 ## Next TBD
-Ask me when you're done with doing this.
